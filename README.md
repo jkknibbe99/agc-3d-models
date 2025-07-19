@@ -1,2 +1,2 @@
-# agc-3d-models
-3D models for the AGC builder
+# AGC 3D Models
+This repository is simply a storage location for the AGC builder's 3D models.
